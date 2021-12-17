@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VallasRR
+- 👋 Hi, I’m Andrei
 - 👀 I’m interested in API leveraging.
 - 🌱 I’m currently working in Python,Typescript, and Swift.
 - 📫 How to reach me (CA +1) 365-298-1995.
