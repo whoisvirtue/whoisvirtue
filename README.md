@@ -27,7 +27,7 @@ I'm a college student currently studying software development and cybersecurity.
 - I'm currently working on improving my Python, and Javascript.  
   
 
-- I rarely look at notifications from the internet, if needed I can be texted at +1 365-298-1995.  
+- I rarely look at notifications from the internet
 
 
 </td><td valign="top" width="50%">
