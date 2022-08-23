@@ -32,9 +32,9 @@ I'm a college student currently studying software development and cybersecurity.
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VallasRR&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=sirvals&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VallasRR&hide_border=true&layout=compact&theme=github_dark" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirvals&hide_border=true&layout=compact&theme=github_dark" align="left" />
 
 </td></tr></table>  
 
