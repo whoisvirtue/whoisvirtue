@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Andrei!  
   
 
-<a href="https://github.com/VallasRR" target="_blank">
+<a href="https://github.com/sirvals" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
@@ -12,7 +12,7 @@
 I'm a college student currently studying software development and cybersecurity. Currently occupying my time with API implementation, reverse-engineering, and backend development. Always trying to learn something new!  
   
 
-![Profile views counter](https://komarev.com/ghpvc/?username=VallasRR&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=sirvals&&style=flat-square)  
   
 
 <br/>  
